@@ -1,3 +1,3 @@
 # JuegoProcesos
 
-Servidor multihilo dtesarrollado en Java para la gestión y emparejamiento de jugadores mediante Sockets TCP.
+Multithreaded server developed in Java for the management and matchmaking of players using TCP sockets.
